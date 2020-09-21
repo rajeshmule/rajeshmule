@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 **Projects**
 
-[instagram-clone project](https://github.com/rajeshmule/instagram-clone-react) live on [instagram-clone](https://instagram-clone-react-eta.vercel.app).
